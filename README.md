@@ -1,8 +1,9 @@
 # hello-world
 the first try of coding!!! so excited!!!
+
 Hi humans!
-this is charlotte. I'm 23 years old now. 
+This is charlotte. I'm leanrning how to code. 
 
-yesterday i learnt how to drive but i was freaked out, because i didn't know how a car works and what my action would cause. for me, it is important to undertand "why" while i learn "how".
+Yesterday I learnt how to drive but I was freaked out, because I didn't know how a car works and what my action would cause. For me, it is important to undertand "why" while i learn "how".
 
-maybe that works for coding as well.
+Maybe that works for coding as well.
